@@ -4,6 +4,7 @@
 ```sh 
 $ npm create vite 01-module
 $ cd 01-module
+$ npm i
 $ npm run dev
 ```
 
